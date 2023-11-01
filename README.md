@@ -1,0 +1,1 @@
+With Firebase, I've designed a simple registration screen. Users input their credentials (e.g., email, password) through a user-friendly interface. Upon submission, Firebase securely stores this data, enabling seamless user authentication and access to the platform's features.
